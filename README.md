@@ -14,5 +14,7 @@
 ### 📈 Featured Projects
 - [Pizza Sales Analysis]
 - [Loan Performance Dashboard]
+- [Academic Projects when in University] - [https://github.com/c0672004-cmd/academic-projects].
+- [Some samples when doing a freelancer at accunique remotely using Python and R to help customers solve their problems] - 
 
 📫 How to reach me: [https://www.linkedin.com/in/yuanyuan-wei-932891385/].
