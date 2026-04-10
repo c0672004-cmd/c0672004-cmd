@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Coco (Yuanyuan Wei), a permanent resident from Canada (Quebec).  👋
+*Mathematics & Statistics Graduate | Aspiring Data Analyst*
 
-<!--
-**c0672004-cmd/c0672004-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📍 About Me
+- 🎓 Recent Graduate from University of Sheffield
+- 🏠 Moving back to Montreal, QC
+- 📊 Currently building projects in SQL and Tableau
 
-Here are some ideas to get you started:
+### 🛠️ Skills
+- **Languages:** SQL, Python (Learning), R
+- **Tools:** Power BI, Tableau, GitHub, Excel
+- **Languages:** English & French & Chinese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Featured Projects
+- [Pizza Sales Analysis]
+- [Loan Performance Dashboard]
+
+📫 How to reach me: [https://www.linkedin.com/in/yuanyuan-wei-932891385/].
