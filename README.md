@@ -12,8 +12,7 @@
 - **Languages:** English & French & Chinese
 
 ### 📈 Featured Projects
-- [Pizza Sales Analysis #SQL#Tableau]
-- [Loan Performance Dashboard]
+
 - [Academic Projects when in University #Python#R (EDA)] - [https://github.com/c0672004-cmd/academic-projects].
 - [Some samples when doing a freelancer at accunique remotely using Python and R to help customers solve their problems] - [https://github.com/c0672004-cmd/data-scientist-at-zhunque].
 
