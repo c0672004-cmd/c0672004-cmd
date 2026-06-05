@@ -12,6 +12,8 @@
 - **Languages:** English & French & Chinese
 
 ### 📈 Featured Projects
+- [HR Analytics Tableau](https://github.com/c0672004-cmd/HR-Analytics-Dashboard-Tableau)
+- [Digital Music Store SQL Analysis](https://github.com/c0672004-cmd/digital-music-store-sql-analysis)
 - [Digital Marketing Campaign Performance (Excel)](https://github.com/c0672004-cmd/Digital-Marketing-Campaign-Optimization)
 - [Retail-Sales-Analysis (Excel)](https://github.com/c0672004-cmd/Retail-Sales-Analysis-2022)
 - [Olympic-Stats-Analysis (R)](https://github.com/c0672004-cmd/olympic-stats-analysis)
