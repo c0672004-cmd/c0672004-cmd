@@ -12,6 +12,7 @@
 - **Languages:** English & French & Chinese
 
 ### 📈 Featured Projects
+- [Customer Retention Insights](https://github.com/c0672004-cmd/Customer-Retention-Insights-Python)
 - [HR Analytics Tableau](https://github.com/c0672004-cmd/HR-Analytics-Dashboard-Tableau)
 - [Digital Music Store SQL Analysis](https://github.com/c0672004-cmd/digital-music-store-sql-analysis)
 - [Digital Marketing Campaign Performance (Excel)](https://github.com/c0672004-cmd/Digital-Marketing-Campaign-Optimization)
