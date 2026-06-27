@@ -12,6 +12,7 @@
 - **Languages:** English & French & Chinese
 
 ### 📈 Featured Projects
+- [Ededge Recruitment Analytics Dashboard](https://github.com/c0672004-cmd/Ededge-Recruitment-Analytics-Dashboard)
 - [Telecom Customer Portfolio Retention & Revenue Risk Analysis](https://github.com/c0672004-cmd/Customer-Retention-Insights-Python)
 - [HR Analytics Tableau](https://github.com/c0672004-cmd/HR-Analytics-Dashboard-Tableau)
 - [Digital Music Store SQL Analysis](https://github.com/c0672004-cmd/digital-music-store-sql-analysis)
