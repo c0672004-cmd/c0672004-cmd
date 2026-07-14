@@ -12,6 +12,7 @@
 - **Languages:** English & French & Chinese
 
 ### 📈 Featured Projects
+- [Bombardier Financial Performance Analysis 2021-2025](https://github.com/c0672004-cmd/Bombardier-Financial-Performance-Analysis-2021-2025-)
 - [Ededge Recruitment Analytics Dashboard (Power BI)](https://github.com/c0672004-cmd/Ededge-Recruitment-Analytics-Dashboard)
 - [Telecom Customer Portfolio Retention & Revenue Risk Analysis (Python)](https://github.com/c0672004-cmd/Customer-Retention-Insights-Python)
 - [HR Analytics Tableau](https://github.com/c0672004-cmd/HR-Analytics-Dashboard-Tableau)
